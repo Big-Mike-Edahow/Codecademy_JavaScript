@@ -10,9 +10,11 @@ We can also change an item in an array using its index, with syntax like myArray
 
 Arrays have a length property (myArray.length), which allows you to see how many items are in an array.
 
-Arrays have their own methods, including .push() and .pop(), which add and remove items from an array, respectively.
-
 Arrays have many methods that perform different tasks, such as:
+
+.push(). Use the .push() method to add new items to the end of an array: myArray.push(item1, item2, ..., itemX).
+
+.pop(). Use the pop() method to remove (pop) the last element of an array: myArray.pop().
 
 .slice(). Use the .slice() method to return selected elements in an array, as a new array: myArray.slice(first, last+1).
 
