@@ -20,7 +20,7 @@ Arrays have many methods that perform different tasks, such as:
 
 .unshift(). Use the .unshift() method to add an item to the beginning of an array: myArray.unshift('New Item').
 
-.indexOf() Use the .indexOf() method to find the index of an element in an array: myArray.indexOf('Item').
+.indexOf(). Use the .indexOf() method to find the index of an element in an array: myArray.indexOf('Item').
 
 You can find additional documentation at the Mozilla Developer Network website.
 
