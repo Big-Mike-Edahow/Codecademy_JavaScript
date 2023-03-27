@@ -16,6 +16,8 @@ Arrays have many methods that perform different tasks, such as:
 
 .pop(). Use the pop() method to remove (pop) the last element of an array: myArray.pop().
 
+.splice(). Use the .splice() method to add and/or remove array elements: myArray.splice(index, howmany, item1, ....., itemX).
+
 .slice(). Use the .slice() method to return selected elements in an array, as a new array: myArray.slice(first, last+1).
 
 .shift(). Use the .shift() method to remove the first item from an array: myArray.shift().
