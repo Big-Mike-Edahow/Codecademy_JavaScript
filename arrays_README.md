@@ -26,6 +26,8 @@ Arrays have many methods that perform different tasks, such as:
 
 .indexOf(). Use the .indexOf() method to find the index of an element in an array: myArray.indexOf('Item').
 
+.join(). Use the .join() method to return an array as a string. Use a comma or blank space as a separator: myArray.join(" ").
+
 You can find additional documentation at the Mozilla Developer Network website.
 
 Some built-in methods are mutating, meaning the method will change the array, while others are not mutating.
