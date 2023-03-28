@@ -1,6 +1,8 @@
 Advanced Objects Introduction
 
-Remember, objects in JavaScript are containers that store data and functionality.
+Remember, objects in JavaScript are containers that store
+data and functionality.
+
 In this lesson, we will build upon the fundamentals of creating objects and
 explore some advanced concepts.
 
